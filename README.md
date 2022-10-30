@@ -1,2 +1,4 @@
 # odin-recipes
-TOP recipies
+Set up a recipe guide through the odin project.
+
+
